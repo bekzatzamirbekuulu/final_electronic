@@ -9,7 +9,7 @@ Why we chose the bin, 'cause it is known fact that in each country people are wo
 
 Schematic of our project
 
-<img src="<img src="https://github.com/bekzatzamirbekuulu/final_electronic/blob/main/scheme.jpg" width="600" alt="arduino_schematic"/>" width="600" alt="arduino_schematic"/>
+<img src="https://github.com/bekzatzamirbekuulu/final_electronic/blob/main/scheme.jpg" width="600" alt="arduino_schematic"/>
 
 
 Also, you can check the photos and video by clicking this link:
