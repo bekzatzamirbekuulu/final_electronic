@@ -13,5 +13,12 @@ Schematic of our project
 
 
 Also, you can check the photos and video by clicking this link:
+
 https://drive.google.com/drive/u/0/folders/1fwfaU4-O832LliSeaMeNh5myd6KnMrMu
+
+## Built With
+* [Arduino IDE](https://www.arduino.cc/en/software)
+* [Arduino Uno](https://en.wikipedia.org/wiki/Arduino_Uno)
+* [Servomotor](https://en.wikipedia.org/wiki/Servomotor)
+* [Ultrasonic Sensor HC-SR04](https://lastminuteengineers.com/arduino-sr04-ultrasonic-sensor-tutorial/)
 
